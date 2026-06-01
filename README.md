@@ -38,16 +38,40 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+<img width="1280" height="959" alt="image" src="https://github.com/user-attachments/assets/0ccbd21e-e841-4338-80a8-ba465ed7395d" />
+
 Bridge rectifier with filter:
+
+<img width="1280" height="981" alt="image" src="https://github.com/user-attachments/assets/b9725a16-2a1e-42f6-b350-bbc4a177dc78" />
+
 
 TABULAR COLUMN
 Rectifier without filter
+
+<img width="1280" height="383" alt="image" src="https://github.com/user-attachments/assets/20b9c73a-6e52-4e5a-89d5-531b0c4192fc" />
+
 TABULAR COLUMN
 Rectifier with filter
 
+<img width="1280" height="340" alt="image" src="https://github.com/user-attachments/assets/403d979e-7624-47ff-b062-61f89cf66b84" />
+
+
 WAVEFORM:
+
+<img width="1280" height="674" alt="image" src="https://github.com/user-attachments/assets/f7542129-3fbf-4b98-b3b9-9524fee4dec5" />
+
+<img width="1280" height="632" alt="image" src="https://github.com/user-attachments/assets/792a3b11-274d-4cde-8ee7-9bccf671403d" />
+
+
 
 
 RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
+
+<img width="902" height="680" alt="image" src="https://github.com/user-attachments/assets/5a57663c-464c-4cda-99bf-1b05c4c25f4a" />
+<img width="920" height="705" alt="image" src="https://github.com/user-attachments/assets/00d540ea-9353-463e-9f45-ffb7171cfcf0" />
+
+<img width="925" height="690" alt="image" src="https://github.com/user-attachments/assets/3c87e40c-a995-4152-bf48-f21dc7beb2f4" />
+<img width="891" height="682" alt="image" src="https://github.com/user-attachments/assets/b782ff78-a2ff-4149-919d-5fced6c5df55" />
+
